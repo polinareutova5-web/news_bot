@@ -1,5 +1,0 @@
-vk-api
-feedparser
-schedule
-requests
-python-dateutil  # часто нужен для работы с datetime
