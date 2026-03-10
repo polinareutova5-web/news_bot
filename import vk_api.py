@@ -9,7 +9,7 @@ import random
 # ================= НАСТРОЙКИ =================
 VK_TOKEN = "vk1.a.UZqxc3FRA5_i1uIXwnN8d-A8xSPfyZGcsTnnQc8rYGypplLKVJ47UJgis_XgBsl7vDFppkIxcyY45Qgda92WiaEpcExTGXkggCTvOCm4Hm2l3nQrFXhaTfXXYXNs6ACqkajanGgEPOZ8ZUxQ5R4n9Ku7fqrnxPeu90jEcktheGv8GD7jL5c8brkC5QO5p4eFotHkvKFwy8z3SOKVUNouGw"
 GROUP_ID = 236333401  # ID сообщества
-POST_TIME = "15:52"    # время рассылки
+POST_TIME = "10:00"    # время рассылки
 # =============================================
 
 # Стабильные RSS источники
