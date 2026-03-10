@@ -1,1 +1,1 @@
-# shop_bot
+# news_bot
